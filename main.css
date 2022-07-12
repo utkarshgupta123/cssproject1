@@ -40,9 +40,14 @@
     position: absolute;
     top: 10vh;
     right: 23vw;
-    color: gray;
+   
     font-size: 50px;
     font-weight: 200;
+}
+.side1 a{
+    text-decoration: none ;
+    color: gray;
+
 }
 .boxes{
     display: flex;
